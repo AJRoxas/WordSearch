@@ -1,0 +1,9 @@
+
+G
+java:S1172("+Remove this unused method parameter "view".(Ù›÷X8ôÏèÚÆ.
+]	java:S125/"<This block of commented-out lines of code should be removed.(ç²öÕûÿÿÿÿ8ÌÈôÚÆ.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8÷æ˜ØÆ.
+T
+java:S1128	"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8Ô‘üÚÆ.
+^
+java:S1128"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8…ºûÚÆ.
